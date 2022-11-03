@@ -23,7 +23,8 @@ description: > # this means to ignore newlines until "baseurl:"
   optimized from the nano- to the macro-scale, to improve
   interaction with the human body and enhance lives.
 baseurl: ""
-url: "https://ccais.github.io"
+# url: "https://ccais.github.io"
+url: "https://citizen-centric-ai-systems-ccais.github.io/ccais.github.io/"
 lang: en_GB
 
 include:
