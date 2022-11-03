@@ -1,7 +1,7 @@
 ---
-title: "Publications | Complex Additive Materials Group | Department of Engineering at the University of Cambridge"
+title: "Publications | Citizen-Centric AI Systems | University of Southampton"
 layout: gridlay
-excerpt: "Publications | Complex Additive Materials Group | Department of Engineering at the University of Cambridge"
+excerpt: "Publications | Citizen-Centric AI Systems | University of Southampton"
 sitemap: false
 permalink: /publications/
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Openings | Complex Additive Materials Group | Department of Engineering at the University of Cambridge"
+title: "Openings | Citizen-Centric AI Systems | University of Southampton"
 layout: textlay
-excerpt: "Openings | Complex Additive Materials Group | Department of Engineering at the University of Cambridge"
+excerpt: "Openings | Citizen-Centric AI Systems | University of Southampton"
 sitemap: false
 permalink: /vacancies/
 ---

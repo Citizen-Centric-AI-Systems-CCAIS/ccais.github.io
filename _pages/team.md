@@ -1,7 +1,7 @@
 ---
-title: "Team | Complex Additive Materials Group | Department of Engineering at the University of Cambridge"
+title: "Team | Citizen-Centric AI Systems | University of Southampton"
 layout: gridlay
-excerpt: "Team | Complex Additive Materials Group | Department of Engineering at the University of Cambridge"
+excerpt: "Team | Citizen-Centric AI Systems | University of Southampton"
 sitemap: false
 permalink: /team/
 ---

@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Complex Additive Materials Group | Department of Engineering at the University of Cambridge
+title: Citizen-Centric AI Systems | University of Southampton
 tagline: >
   Researching materials
   chemistry, additive manufacturing, and machine learning
@@ -23,7 +23,7 @@ description: > # this means to ignore newlines until "baseurl:"
   optimized from the nano- to the macro-scale, to improve
   interaction with the human body and enhance lives.
 baseurl: ""
-url: "https://cam-cambridge.github.io"
+url: "https://ccais.github.io"
 lang: en_GB
 
 include:

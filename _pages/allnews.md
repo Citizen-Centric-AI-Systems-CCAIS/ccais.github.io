@@ -1,7 +1,7 @@
 ---
-title: "News | Complex Additive Materials Group | Department of Engineering at the University of Cambridge"
+title: "News | Citizen-Centric AI Systems | University of Southampton"
 layout: textlay
-excerpt: "News | Complex Additive Materials Group | Department of Engineering at the University of Cambridge"
+excerpt: "News | Citizen-Centric AI Systems | University of Southampton"
 sitemap: false
 permalink: /allnews.html
 ---
