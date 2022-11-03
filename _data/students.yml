@@ -1,5 +1,20 @@
-- name: Mark Carrington
-  email: mec79@cam.ac.uk
+- name: Behrad Koohy
+  photo: behrad_koohy.jpg
+  info: PhD Student, supervised by Prof Sebastian Stein and Prof Enrico Gerding
+  email: bk2g18@soton.ac.uk
 
-- name: Michał Zmyślony
-  email: m.zmyslony@student.uw.edu.pl
+- name: Alex Masterman
+  photo: alex_masterman.jpg
+  info: PhD Student, supervised by Prof Sebastian Stein and Prof Enrico Gerding
+  email: am4e20@soton.ac.uk
+
+- name: Alvin Shi
+  photo: alvin_shi.jpg
+  info: PhD Student, supervised by Prof Sebastian Stein and Prof Enrico Gerding
+  email: xxxxxx@soton.ac.uk
+
+- name: Gregory Sewell
+  photo: gregory_sewell.jpg
+  info: PhD Student, supervised by Dr Stephanie Gauthier and Prof Patrick James
+  email: xxxxxx@soton.ac.uk
+
