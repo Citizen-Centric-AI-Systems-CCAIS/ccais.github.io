@@ -86,7 +86,7 @@ permalink: /team/
 </div>
 {% endif %}
 
-## Master and Bachelor Students
+## PhD Students
 
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
@@ -195,7 +195,7 @@ permalink: /team/
 </div>
 {% endif %} -->
 
-## Former visitors, BSc/ MSc students
+<!-- ## Former visitors, BSc/ MSc students
 
 <div class="row">
 
@@ -220,4 +220,4 @@ permalink: /team/
 {% endfor %}
 </div>
 
-</div>
+</div> -->
