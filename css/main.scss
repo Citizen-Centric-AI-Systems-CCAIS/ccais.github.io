@@ -10,7 +10,10 @@ img { margin-bottom: 24px;
 
 
 body {
-	padding-top: 70px;
+	padding-top-old: 70px;
+	font-family: 'Open Sans', sans-serif;
+  	min-height: 75rem;
+  	padding-top: 4.5rem;
 }
 
 figcaption {

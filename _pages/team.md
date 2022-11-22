@@ -8,7 +8,7 @@ permalink: /team/
 
 # Group Members
 
-**If you are interested in either a Ph.D. or postdoctoral position please get in touch! There is currently an opening for a postdoc/RA!**
+<!-- **If you are interested in either a Ph.D. or postdoctoral position please get in touch! There is currently an opening for a postdoc/RA!** -->
 
 ## Staff
 
