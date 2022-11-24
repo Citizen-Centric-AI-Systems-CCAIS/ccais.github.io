@@ -1,12 +1,44 @@
 ---
 layout: default
 ---
+<style type="text/css">
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
 
-  <div id="homeid" class="col-sm-8">
+/* Centered text */
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);}
+
+.highlight {
+  display: inline;
+  padding: .25em 0;
+  background: #FFC107;
+  color: #ffffff;
+  box-shadow: .5em 0 0 #FFC107, -.5em 0 0 #FFC107;
+}
+
+</style>
+ <div class="container" style="max-width: 100%; ">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/home_banner.jpeg" alt="Snow" style="width:100%; text-align: center;">
+  <div class="centered">
+    <h2 style="color: white;"><span style="background-color: #2aa7bd"> We conduct fundamental research into artificial intelligence systems that are made for use by humans to benefit humans. </span></h2>
+  </div>
+
+
+</div> 
+
+
+  <div id="homeid" class="col-sm-7">
         <h1>Citizen-Centric AI Systems</h1>
 
 	{{ content }}
   </div>
-  <div id="newsid" class="col-sm-4" >
+  <div id="newsid" class="col-sm-5" >
 	{% include news.html %}
   </div>
