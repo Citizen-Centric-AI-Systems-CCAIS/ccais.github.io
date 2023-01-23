@@ -65,7 +65,9 @@ permalink: /publications/
 {% endif %}
 
 <!-- publication harvard begin -->
+{% raw %}
 {{ publi.harvard }}
+{% endraw %}
 <!-- publication harvard end -->
 
 <a href="{{ publi.link.url }}">{{ publi.title }}</a><br />
