@@ -64,7 +64,7 @@ permalink: /publications/
 {% assign pub_year = publi.year %}
 {% endif %}
 
-{% publi.harvard %}
+{% include {{ publi.harvard }} %}
 
 <a href="{{ publi.link.url }}">{{ publi.title }}</a><br />
 {{ publi.authors }}, ({{ publi.year }}). 
