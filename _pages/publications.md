@@ -55,9 +55,15 @@ permalink: /publications/
 
 ## Full List -->
 
+{% assign pub_year = 0 %}
 {% for publi in site.data.publist %}
+    {% if publi.year != pub_year %}
+        ## {{ publi.year }}
+        {% assign pub_year = publi.year %}
+    {% endif %}
+{% endfor %}
 
-{{ publi.title }} <br />
-<em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+<a href="{{ publi.link.url }}">{{ publi.title }}</a><br />
+{{ publi.authors }} ({{ publi.year }}). <!-- <em>{{}}</em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a> -->
 
 {% endfor %}
