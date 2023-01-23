@@ -1,76 +1,161 @@
-- title: "Quantitative and Real‐Time Control of 3D Printing Material Flow Through Deep Learning"
-  description:
-  authors: D.A.J. Brion, S.W. Pattinson
+- title: "Responsibility Research for Trustworthy Autonomous Systems"
+  description: 
+  authors: Vahid Yazdanpanah, Enrico Gerding, Sebastian Stein, Mehdi Dastani, Catholijn M. Jonker, Timothy Norman
   link:
-    url: https://onlinelibrary.wiley.com/doi/10.1002/aisy.202200153
-    display:  "DOI: 10.1002/aisy.202200153" 
+    url: https://eprints.soton.ac.uk/cgi/eprintbypureuuid?uuid=1f4776ad-76ef-47fa-ab53-e6aae4be57dd
+    display: Read more
 
-- title: "Generalisable 3D printing error detection and correction via multi-head neural networks"
-  description:
-  authors: D.A.J. Brion, S.W. Pattinson
+- title: "Formal Methods to Verify and Ensure Self-Coordination Abilities in the Internet of Vehicles"
+  description: 
+  authors: Vahid Yazdanpanah, Enrico Gerding, Sebastian Stein
   link:
-    url: https://www.nature.com/articles/s41467-022-31985-y
-    display:  "DOI: 10.1038/s41467-022-31985-y" 
+    url: https://eprints.soton.ac.uk/cgi/eprintbypureuuid?uuid=f25164ff-caef-4d6d-96ca-393fb5e063d6
+    display: Read more
 
-- title: "Automated recognition and correction of warp deformation in extrusion additive manufacturing"
-  description:
-  authors: D.A.J. Brion, M. Shen, S.W. Pattinson
+- title: "Different Forms of Responsibility in Multiagent Systems: Sociotechnical Characteristics and  Requirements"
+  description: 
+  authors: Vahid Yazdanpanah, Enrico Gerding, Sebastian Stein, Corina Cirstea, m.c. schraefel, Timothy Norman, Nicholas R. Jennings
   link:
-    url: https://www.sciencedirect.com/science/article/pii/S2214860422002378
-    display:  "DOI: 10.1016/j.addma.2022.102838" 
- 
-- title: "Printed Materials with Locally Tailored Elasticity for Compliant Wearable and Implantable Devices"
-  description:
-  authors: S.W. Pattinson, M.E. Huber, S. Kim, J. Lee, S. Grunsfeld, R. Roberts, G. Dreifus, C. Meier, L. Liu, N. Hogan,  A.J. Hart
-  link:
-    url: https://onlinelibrary.wiley.com/doi/abs/10.1002/adfm.201901815
-    display:  "DOI: 10.1002/adfm.201901815"
-  
-- title: "Additive Manufacturing of Cellulosic Materials with Robust Mechanics and Antimicrobial Functionality"
-  description:
-  authors: S.W. Pattinson, A.J. Hart
-  link:
-    url: http://onlinelibrary.wiley.com/doi/10.1002/admt.201600084/abstract
-    display:  "DOI: 10.1002/admt.201600084"
+    url: https://eprints.soton.ac.uk/cgi/eprintbypureuuid?uuid=01c41ed0-cc34-47e1-b9bb-649c22468f73
+    display: Read more
 
-- title: "Real-Time Environmental TEM Investigation of Self-Organization and Mechanical Competition in Carbon Nanotube Forest Growth"
-  description:
-  authors: B. Viswanath, M. Bedewy, E.R. Meshot, S.W. Pattinson, E.S. Polsen, F. Laye, D.N. Zakharov, E.A. Stach, A.J. Hart
+- title: "Privacy and Trust in the Internet of Vehicles"
+  description: 
+  authors: Efstathios Zavvos, Enrico Gerding, Vahid Yazdanpanah, Carsten Maple, Sebastian Stein, m.c.  schraefel
   link:
-    url: http://pubs.acs.org/doi/abs/10.1021/acsnano.6b07251?src=recsys
-    display:  "DOI: 10.1021/acsnano.6b07251"
-    
-- title: "Fast Imaging of Carbon Nanotube Growth by Environmental TEM"
-  description:
-  authors: D. N. Zakharov, M. Bedewy, V. Balakrishnan, S.W. Pattinson, E. R. Meshot, A. J. Hart and E. A. Stach
-  link:
-    url: https://www.cambridge.org/core/services/aop-cambridge-core/content/view/S1431927615012416
-    display:  "DOI: 10.1017/S1431927615012416"
+    url: https://eprints.soton.ac.uk/cgi/eprintbypureuuid?uuid=75735afc-d423-43e0-ad9e-ff3b7602bfe6
+    display: Read more
 
-- title: "High-Speed Roll-to-Roll Manufacturing of Graphene using a Concentric Tube CVD Reactor"
-  description:
-  authors: E. Polsen, D. McNerny, B. Viswanath, S.W. Pattinson, A.J. Hart
+- title: "Collective responsibility in multiagent settings"
+  description: 
+  authors: Vahid Yazdanpanah, Enrico H. Gerding, Sebastian Stein, Corina Cirstea, m.c.  schraefel, Timothy J. Norman, Nicholas R. Jennings
   link:
-    url: https://www.nature.com/articles/srep10257
-    display:  "DOI: 10.1038/srep10257"
-    
-- title: "Mechanism and Enhanced Yield of Carbon Nanotube Growth on Stainless Steel by Oxygen-Induced Surface Reconstruction"
-  description:
-  authors: S.W. Pattinson, B. Viswanath, D. Zakharov, J. Li, E.A. Stach, A.J. Hart
-  link:
-    url: http://pubs.acs.org/doi/abs/10.1021/cm504209u
-    display:  "DOI: 10.1021/cm504209u"
+    url: https://eprints.soton.ac.uk/cgi/eprintbypureuuid?uuid=a07568e8-2d68-4bcc-bdf6-5456152bfbe4
+    display: Read more
 
-- title: "Crystal Engineering with Graphene"
-  description:
-  authors: P. Gebhardt, S.W. Pattinson, Z. Ren, J. Elliott, D. Cooke, D. Ede
+- title: "Multiagent strategic reasoning in the IoV: A logic-based approach"
+  description: 
+  authors: Vahid Yazdanpanah, Sebastian Stein, Enrico H. Gerding, m.c.  schraefel
   link:
-    url: http://pubs.rsc.org/en/content/articlelanding/2014/nr/c4nr00320a#!divAbstract
-    display:  "DOI: 10.1039/C4NR00320A "
+    url: https://eprints.soton.ac.uk/cgi/eprintbypureuuid?uuid=f1c5d810-7dfe-4ec2-aa3c-4823855c4e9e
+    display: Read more
 
-- title: "En Route to Controlled Catalytic CVD Synthesis of Densely Packed and Vertically Aligned Nitrogen-Doped Carbon Nanotube Arrays"
-  description:
-  authors: S. Boncel, S.W. Pattinson, V. Geiser, M.S.P. Shaffer, K.K.K. Koziol
+- title: "Applying strategic reasoning for accountability ascription in multiagent teams"
+  description: 
+  authors: Vahid Yazdanpanah, Sebastian Stein, Enrico Gerding, Nicholas R. Jennings
   link:
-    url: https://www.beilstein-journals.org/bjnano/articles/5/24
-    display:  "DOI: 10.3762/bjnano.5.24"
+    url: https://eprints.soton.ac.uk/cgi/eprintbypureuuid?uuid=db3d1793-710e-4282-a5a1-03a2a292bf47
+    display: Read more
+
+- title: "Task-oriented accountability in autonomous systems"
+  description: 
+  authors: Vahid Yazdanpanah, Sebastian Stein, Enrico Gerding, Nicholas R. Jennings
+  link:
+    url: https://eprints.soton.ac.uk/cgi/eprintbypureuuid?uuid=73e32bdf-2aa7-41d9-94ae-c0a35a3e1be8
+    display: Read more
+
+- title: "Trustworthy human-AI partnerships"
+  description: 
+  authors: Sarvapali Ramchurn, Sebastian Stein, Nicholas R. Jennings
+  link:
+    url: https://eprints.soton.ac.uk/cgi/eprintbypureuuid?uuid=0977ee56-d087-47e2-8695-75c7b95a3a4b
+    display: Read more
+
+- title: "Preference-aware dynamic ridesharing"
+  description: 
+  authors: Yi Cheng Ong, Nicos Protopapas, Vahid Yazdanpanah, Enrico Gerding, Sebastian Stein
+  link:
+    url: https://eprints.soton.ac.uk/cgi/eprintbypureuuid?uuid=a6e21e8b-c047-4ba0-ba8c-c32578135c34
+    display: Read more
+
+- title: "Coalition formation in ridesharing with walking options"
+  description: 
+  authors: Lucia Cipolina-Kun, Vahid Yazdanpanah, Enrico Gerding, Sebastian Stein
+  link:
+    url: https://eprints.soton.ac.uk/cgi/eprintbypureuuid?uuid=a5e191b6-72fa-493d-b709-35b9bfe4b78e
+    display: Read more
+
+- title: "A Polynomial-time, truthful, individually rational and budget balanced ridesharing mechanism"
+  description: 
+  authors: Tatsuya Iwase, Sebastian Stein, Enrico Gerding
+  link:
+    url: https://eprints.soton.ac.uk/cgi/eprintbypureuuid?uuid=98c022f8-85d0-4e8b-a648-540e391f1055
+    display: Read more
+
+- title: "Adapting branched networks to realise progressive intelligence"
+  description: 
+  authors: Jack Dymond, Sebastian Stein, Stephen Gunn
+  link:
+    url: https://eprints.soton.ac.uk/cgi/eprintbypureuuid?uuid=e47f7314-d0be-4c74-aae0-24732d78ccd0
+    display: Read more
+
+- title: "Electric Vehicle Charging on Long Journeys: Current Challenges and Future Opportunities"
+  description: 
+  authors: Elnaz Shafipour Yourdshahi, Sebastian Stein
+  link:
+    url: https://eprints.soton.ac.uk/cgi/eprintbypureuuid?uuid=77115181-dd29-4ca3-9acb-e9a5be11223e
+    display: Read more
+
+- title: "A proportional pricing mechanism for ridesharing services with meeting points"
+  description: 
+  authors: Lucia Cipolina-Kun, Vahid Yazdanpanah, Sebastian Stein, Enrico Gerding
+  link:
+    url: https://eprints.soton.ac.uk/cgi/eprintbypureuuid?uuid=0587e3ad-74c7-4b42-9857-0a6b54b24a93
+    display: Read more
+
+- title: "Low-carbon comfort management for smart buildings"
+  description: 
+  authors: Jennifer Williams, Benjamin  Lellouch, Sebastian Stein, Christina Vanderwel, Stephanie Gauthier
+  link:
+    url: https://eprints.soton.ac.uk/cgi/eprintbypureuuid?uuid=37e9507d-5ccc-4937-9a5d-73e9cab33132
+    display: Read more
+
+- title: "From Intelligent Agents to Trustworthy Human-Centred Multiagent Systems"
+  description: 
+  authors: Mohammad Divband Soorati, Enrico Gerding, Enrico Marchioni, Pavel Naumov, Timothy Norman, Sarvapali Ramchurn, Baharak Rastegari, Adam Sobey, Sebastian Stein, Danesh Tarapore, Vahid Yazdanpanah, Jie Zhang
+  link:
+    url: https://eprints.soton.ac.uk/cgi/eprintbypureuuid?uuid=a76f89a8-ef64-4951-bdce-3937c50ed808
+    display: Read more
+
+- title: "Safe Audio AI Services in Smart Buildings"
+  description: 
+  authors: Jennifer Williams, Vahid Yazdanpanah, Sebastian Stein
+  link:
+    url: https://eprints.soton.ac.uk/cgi/eprintbypureuuid?uuid=35d67b39-a78e-48c5-a02c-5c4a5037a4a1
+    display: Read more
+
+- title: "Reasoning About Responsibility in Autonomous Systems:  Challenges and Opportunities"
+  description: 
+  authors: Vahid Yazdanpanah, Enrico Gerding, Sebastian Stein, Mehdi Dastani, Catholijn M. Jonker, Timothy Norman, Sarvapali Ramchurn
+  link:
+    url: https://eprints.soton.ac.uk/cgi/eprintbypureuuid?uuid=741480fe-5205-4e61-b796-ce2b51e436bb
+    display: Read more
+
+- title: "Multiobjective routing in sustainable mobility-on-demand"
+  description: 
+  authors: Mengya Liu, Vahid Yazdanpanah, Sebastian Stein, Enrico Gerding
+  link:
+    url: https://eprints.soton.ac.uk/cgi/eprintbypureuuid?uuid=40d6d904-7519-4681-84d7-e40e1ae85a0c
+    display: Read more
+
+- title: "Reward function design in multi-agent reinforcement learning for traffic signal control"
+  description: 
+  authors: Behrad Koohy, Sebastian Stein, Enrico Gerding, Ghaithaa Manla
+  link:
+    url: https://eprints.soton.ac.uk/cgi/eprintbypureuuid?uuid=0cf15d1a-8da7-4901-bab1-bad77dc86970
+    display: Read more
+
+- title: "A Polynomial-time decentralised algorithm for coordinated management of multiple intersections"
+  description: 
+  authors: Tatsuya Iwase, Sebastian Stein, Enrico Gerding, Archie Chapman
+  link:
+    url: https://eprints.soton.ac.uk/cgi/eprintbypureuuid?uuid=dfd34d9c-f353-41b0-ae5e-bc8d4a13cde4
+    display: Read more
+
+- title: "Efficient and adaptive incentive selection for crowdsourcing contests"
+  description: 
+  authors: Nhat Van-Quoc Truong, Le Cong Dinh, Sebastian Stein, Long Tran-Thanh, Nicholas R. Jennings
+  link:
+    url: https://eprints.soton.ac.uk/cgi/eprintbypureuuid?uuid=29b9a13e-0023-4a95-a952-2a998fe63721
+    display: Read more
+
