@@ -64,11 +64,10 @@ permalink: /publications/
 {% assign pub_year = publi.year %}
 {% endif %}
 
-<!-- publication harvard begin -->
-{% raw %}
+{% capture h %}
 {{ publi.harvard }}
-{% endraw %}
-<!-- publication harvard end -->
+{% endcapture %}
+{{ h }}
 
 <a href="{{ publi.link.url }}">{{ publi.title }}</a><br />
 {{ publi.authors }}, ({{ publi.year }}). 
