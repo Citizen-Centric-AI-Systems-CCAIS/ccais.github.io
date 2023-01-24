@@ -1,26 +1,23 @@
-- date: 3. October 2022
-  headline: "One new PhD student <b>Christos Margadji</b> has arrived - much excitement!"
-
-- date: 1. October 2021
-  headline: "Two new PhD students <b>Haihui Yan</b> and <b>Miaomiao Zou</b> have arrived - much excitement!"
-
-- date: 10. September 2021
-  headline: "Our new dedicated lab space in the Institute for Manufacturing is finished. It looks amazing."
-
-- date: 24. August 2021
-  headline: "Work on the new lab has finally begun - can't wait for move in."
-
-- date: 1. October 2020
-  headline: "PhD student <b>Daiki Ikeuchi</b> has arrived"
-
-- date: 17. May 2020
-  headline: "Congratulations to <b>Douglas Brion</b> who was one of the three best presentation winners at the IfM virtual first year PhD conference."
-
-- date: 20. April 2020
-  headline: "<b>Dr Sebastian Pattinson</b> has been awarded the <a href='https://acmedsci.ac.uk/grants-and-schemes/grant-schemes/springboard' target='_blank'>Academy of Medical Sciences Springboard grant</a> for research into bespoke 3D printed support braces. <a href='https://www.cambridgenetwork.co.uk/news/funding-secured-research-bespoke-3d-printed-support-braces' target='_blank'>Read more</a>."
-
-- date: 24. February 2020
-  headline: "We welcome research associate <b>Dr Xijin Hua</b> to the team who will be researching 3D printed orthoses."
-
-- date: 1. October 2019
-  headline: "PhD students <b>Douglas Brion</b> and <b>Zehao Ji</b> join the group - it is officially all starting!"
+- date: 2023
+  headline: "<b>Jennifer Williams</b> appointed to Organizing Committee for ISCA Interspeech 2023 Conference, Co-Chair of Special Sessions and Challenges"
+- date: 2023
+  headline: "<b>Vahid Yazdanpanah</b> appointed to Organizing Committee of The 22nd International Conference on Autonomous Agents and Multiagent Systems (AAMAS-2023)"
+- date: 2022
+  headline: "<b>Jennifer Williams</b> responds to call for evidence: “Connected tech: smart or sinister? A call for evidence from Department for Digital, Culture, Media & Sport”"
+  # collaborators:
+  #   - Coulton , Paul
+  #   - Hyde, Richard
+  #   - (Jonak) Lisinska, Justyna
+  #   - Lindley, Joseph
+  #   - Moffat, Luke
+  #   - Mousavi, Mohammadreza
+  #   - Ramchurn, Sarvapali D.
+  #   - Shukla, Paurav
+  #   - Stead, Michael
+  #   - Townsend, Beverley
+- date: 2022
+  headline: "<b>Jennifer Williams</b> appointed to Organizing Committee for ISCA special interest group Security and Privacy in Speech Communication (SPSC-SIG), 2-year term"
+- date: 2021-2022
+  headline: "<b>Sebastian Stein</b> appointed Fellow of the Alan Turing Institute"
+- date: 2021
+  headline: "<b>Vahid Yazdanpanah</b> appointed to Advisory Board of the UKRI Project on Computational Agent Responsibility"
