@@ -1,76 +1,230 @@
-- title: "Quantitative and Real‐Time Control of 3D Printing Material Flow Through Deep Learning"
-  description:
-  authors: D.A.J. Brion, S.W. Pattinson
+- title: "Coalition formation in ridesharing with walking options"
+  description: 
+  authors: Lucia Cipolina-Kun, Vahid Yazdanpanah, Enrico Gerding, Sebastian Stein
+  year: 2022
+  harvard: |
+    <div class="uos-pure-list rendering researchoutput  researchoutput_harvard contributiontoconference harvard contributiontoconference_harvard">Cipolina-Kun, L<span>, Yazdanpanah, V</span><span>, Gerding, E</span><span> & Stein, S</span> 2022, '<span class="harvard_title"><a href="https://eprints.soton.ac.uk/cgi/eprintbypureuuid?uuid=a5e191b6-72fa-493d-b709-35b9bfe4b78e" onclick="window.open(this.href); return false;">Coalition formation in ridesharing with walking options</a></span>', Paper presented at ICLR 2022 Workshop on Gamification and Multiagent Solutions, <span class="date">29/04/22</span> - <span class="date">29/04/22</span>.
   link:
-    url: https://onlinelibrary.wiley.com/doi/10.1002/aisy.202200153
-    display:  "DOI: 10.1002/aisy.202200153" 
+    url: https://eprints.soton.ac.uk/cgi/eprintbypureuuid?uuid=a5e191b6-72fa-493d-b709-35b9bfe4b78e
+    display: Read more
 
-- title: "Generalisable 3D printing error detection and correction via multi-head neural networks"
-  description:
-  authors: D.A.J. Brion, S.W. Pattinson
+- title: "A proportional pricing mechanism for ridesharing services with meeting points"
+  description: 
+  authors: Lucia Cipolina-Kun, Vahid Yazdanpanah, Sebastian Stein, Enrico Gerding
+  year: 2022
+  harvard: |
+    <div class="uos-pure-list rendering researchoutput  researchoutput_harvard contributiontobookanthology harvard contributiontobookanthology_harvard">Cipolina-Kun, L<span>, Yazdanpanah, V</span><span>, Stein, S</span><span> & Gerding, E</span> 2022, <span class="harvard_title"><a href="https://eprints.soton.ac.uk/cgi/eprintbypureuuid?uuid=0587e3ad-74c7-4b42-9857-0a6b54b24a93" onclick="window.open(this.href); return false;">A proportional pricing mechanism for ridesharing services with meeting points</a></span>. in <em>Proceedings of the 24th International Conference on Principles and Practice of Multi-Agent Systems.</em> Springer.
   link:
-    url: https://www.nature.com/articles/s41467-022-31985-y
-    display:  "DOI: 10.1038/s41467-022-31985-y" 
+    url: https://eprints.soton.ac.uk/cgi/eprintbypureuuid?uuid=0587e3ad-74c7-4b42-9857-0a6b54b24a93
+    display: Read more
 
-- title: "Automated recognition and correction of warp deformation in extrusion additive manufacturing"
-  description:
-  authors: D.A.J. Brion, M. Shen, S.W. Pattinson
+- title: "From Intelligent Agents to Trustworthy Human-Centred Multiagent Systems"
+  description: 
+  authors: Mohammad Divband Soorati, Enrico Gerding, Enrico Marchioni, Pavel Naumov, Timothy Norman, Sarvapali Ramchurn, Baharak Rastegari, Adam Sobey, Sebastian Stein, Danesh Tarapore, Vahid Yazdanpanah, Jie Zhang
+  year: 2022
+  harvard: |
+    <div class="uos-pure-list rendering researchoutput  researchoutput_harvard contributiontojournal harvard contributiontojournal_harvard"><span>Divband Soorati, M</span><span>, Gerding, E</span><span>, Marchioni, E</span><span>, Naumov, P</span><span>, Norman, T</span><span>, Ramchurn, S</span><span>, Rastegari, B</span><span>, Sobey, A</span><span>, Stein, S</span><span>, Tarapore, D</span><span>, Yazdanpanah, V</span><span> & Zhang, J</span> 2022, '<span class="harvard_title"><a href="https://eprints.soton.ac.uk/cgi/eprintbypureuuid?uuid=a76f89a8-ef64-4951-bdce-3937c50ed808" onclick="window.open(this.href); return false;">From Intelligent Agents to Trustworthy Human-Centred Multiagent Systems</a></span>', <span><em>AI Communications</em></span>.
   link:
-    url: https://www.sciencedirect.com/science/article/pii/S2214860422002378
-    display:  "DOI: 10.1016/j.addma.2022.102838" 
- 
-- title: "Printed Materials with Locally Tailored Elasticity for Compliant Wearable and Implantable Devices"
-  description:
-  authors: S.W. Pattinson, M.E. Huber, S. Kim, J. Lee, S. Grunsfeld, R. Roberts, G. Dreifus, C. Meier, L. Liu, N. Hogan,  A.J. Hart
-  link:
-    url: https://onlinelibrary.wiley.com/doi/abs/10.1002/adfm.201901815
-    display:  "DOI: 10.1002/adfm.201901815"
-  
-- title: "Additive Manufacturing of Cellulosic Materials with Robust Mechanics and Antimicrobial Functionality"
-  description:
-  authors: S.W. Pattinson, A.J. Hart
-  link:
-    url: http://onlinelibrary.wiley.com/doi/10.1002/admt.201600084/abstract
-    display:  "DOI: 10.1002/admt.201600084"
+    url: https://eprints.soton.ac.uk/cgi/eprintbypureuuid?uuid=a76f89a8-ef64-4951-bdce-3937c50ed808
+    display: Read more
 
-- title: "Real-Time Environmental TEM Investigation of Self-Organization and Mechanical Competition in Carbon Nanotube Forest Growth"
-  description:
-  authors: B. Viswanath, M. Bedewy, E.R. Meshot, S.W. Pattinson, E.S. Polsen, F. Laye, D.N. Zakharov, E.A. Stach, A.J. Hart
+- title: "Adapting branched networks to realise progressive intelligence"
+  description: 
+  authors: Jack Dymond, Sebastian Stein, Stephen Gunn
+  year: 2022
+  harvard: |
+    <div class="uos-pure-list rendering researchoutput  researchoutput_harvard contributiontoconference harvard contributiontoconference_harvard"><span>Dymond, J</span><span>, Stein, S</span><span> & Gunn, S</span> 2022, '<span class="harvard_title"><a href="https://eprints.soton.ac.uk/cgi/eprintbypureuuid?uuid=e47f7314-d0be-4c74-aae0-24732d78ccd0" onclick="window.open(this.href); return false;">Adapting branched networks to realise progressive intelligence</a></span>', Paper presented at British Machine Vision Conference, London, United Kingdom, <span class="date">21/11/22</span> - <span class="date">24/11/22</span>.
   link:
-    url: http://pubs.acs.org/doi/abs/10.1021/acsnano.6b07251?src=recsys
-    display:  "DOI: 10.1021/acsnano.6b07251"
-    
-- title: "Fast Imaging of Carbon Nanotube Growth by Environmental TEM"
-  description:
-  authors: D. N. Zakharov, M. Bedewy, V. Balakrishnan, S.W. Pattinson, E. R. Meshot, A. J. Hart and E. A. Stach
-  link:
-    url: https://www.cambridge.org/core/services/aop-cambridge-core/content/view/S1431927615012416
-    display:  "DOI: 10.1017/S1431927615012416"
+    url: https://eprints.soton.ac.uk/cgi/eprintbypureuuid?uuid=e47f7314-d0be-4c74-aae0-24732d78ccd0
+    display: Read more
 
-- title: "High-Speed Roll-to-Roll Manufacturing of Graphene using a Concentric Tube CVD Reactor"
-  description:
-  authors: E. Polsen, D. McNerny, B. Viswanath, S.W. Pattinson, A.J. Hart
+- title: "A Polynomial-time decentralised algorithm for coordinated management of multiple intersections"
+  description: 
+  authors: Tatsuya Iwase, Sebastian Stein, Enrico Gerding, Archie Chapman
+  year: 2022
+  harvard: |
+    <div class="uos-pure-list rendering researchoutput  researchoutput_harvard contributiontoconference harvard contributiontoconference_harvard">Iwase, T<span>, Stein, S</span><span>, Gerding, E</span> & Chapman, A 2022, '<span class="harvard_title"><a href="https://eprints.soton.ac.uk/cgi/eprintbypureuuid?uuid=dfd34d9c-f353-41b0-ae5e-bc8d4a13cde4" onclick="window.open(this.href); return false;">A Polynomial-time decentralised algorithm for coordinated management of multiple intersections</a></span>', Paper presented at The 31st International Joint Conference on Artificial Intelligence, Vienna, Austria, <span class="date">23/07/22</span> - <span class="date">29/07/22</span> pp. 3847-3853. <a onclick="window.open(this.href); return false;" href="https://doi.org/10.24963/ijcai.2022/534" class="link"><span>https://doi.org/10.24963/ijcai.2022/534</span></a>
   link:
-    url: https://www.nature.com/articles/srep10257
-    display:  "DOI: 10.1038/srep10257"
-    
-- title: "Mechanism and Enhanced Yield of Carbon Nanotube Growth on Stainless Steel by Oxygen-Induced Surface Reconstruction"
-  description:
-  authors: S.W. Pattinson, B. Viswanath, D. Zakharov, J. Li, E.A. Stach, A.J. Hart
-  link:
-    url: http://pubs.acs.org/doi/abs/10.1021/cm504209u
-    display:  "DOI: 10.1021/cm504209u"
+    url: https://eprints.soton.ac.uk/cgi/eprintbypureuuid?uuid=dfd34d9c-f353-41b0-ae5e-bc8d4a13cde4
+    display: Read more
 
-- title: "Crystal Engineering with Graphene"
-  description:
-  authors: P. Gebhardt, S.W. Pattinson, Z. Ren, J. Elliott, D. Cooke, D. Ede
+- title: "Reward function design in multi-agent reinforcement learning for traffic signal control"
+  description: 
+  authors: Behrad Koohy, Sebastian Stein, Enrico Gerding, Ghaithaa Manla
+  year: 2022
+  harvard: |
+    <div class="uos-pure-list rendering researchoutput  researchoutput_harvard contributiontoconference harvard contributiontoconference_harvard"><span>Koohy, B</span><span>, Stein, S</span><span>, Gerding, E</span> & Manla, G 2022, '<span class="harvard_title"><a href="https://eprints.soton.ac.uk/cgi/eprintbypureuuid?uuid=0cf15d1a-8da7-4901-bab1-bad77dc86970" onclick="window.open(this.href); return false;">Reward function design in multi-agent reinforcement learning for traffic signal control</a></span>', Paper presented at ATT'22: Workshop Agents in Traffic and Transportation, July 25, 2022, Vienna, Austria, Vienna, Austria, <span class="date">23/07/22</span> - <span class="date">29/07/22</span> pp. 1-13. &lt;<a onclick="window.open(this.href); return false;" href="http://ceur-ws.org/Vol-3173/1.pdf" class="link"><span>http://ceur-ws.org/Vol-3173/1.pdf</span></a>&gt;
   link:
-    url: http://pubs.rsc.org/en/content/articlelanding/2014/nr/c4nr00320a#!divAbstract
-    display:  "DOI: 10.1039/C4NR00320A "
+    url: https://eprints.soton.ac.uk/cgi/eprintbypureuuid?uuid=0cf15d1a-8da7-4901-bab1-bad77dc86970
+    display: Read more
 
-- title: "En Route to Controlled Catalytic CVD Synthesis of Densely Packed and Vertically Aligned Nitrogen-Doped Carbon Nanotube Arrays"
-  description:
-  authors: S. Boncel, S.W. Pattinson, V. Geiser, M.S.P. Shaffer, K.K.K. Koziol
+- title: "Multiobjective routing in sustainable mobility-on-demand"
+  description: 
+  authors: Mengya Liu, Vahid Yazdanpanah, Sebastian Stein, Enrico Gerding
+  year: 2022
+  harvard: |
+    <div class="uos-pure-list rendering researchoutput  researchoutput_harvard contributiontoconference harvard contributiontoconference_harvard"><span>Liu, M</span><span>, Yazdanpanah, V</span><span>, Stein, S</span><span> & Gerding, E</span> 2022, '<span class="harvard_title"><a href="https://eprints.soton.ac.uk/cgi/eprintbypureuuid?uuid=40d6d904-7519-4681-84d7-e40e1ae85a0c" onclick="window.open(this.href); return false;">Multiobjective routing in sustainable mobility-on-demand</a></span>', Paper presented at ATT'22: Workshop Agents in Traffic and Transportation, July 25, 2022, Vienna, Austria, Vienna, Austria, <span class="date">23/07/22</span> - <span class="date">29/07/22</span> pp. 47-61. &lt;<a onclick="window.open(this.href); return false;" href="http://ceur-ws.org/Vol-3173/4.pdf" class="link"><span>http://ceur-ws.org/Vol-3173/4.pdf</span></a>&gt;
   link:
-    url: https://www.beilstein-journals.org/bjnano/articles/5/24
-    display:  "DOI: 10.3762/bjnano.5.24"
+    url: https://eprints.soton.ac.uk/cgi/eprintbypureuuid?uuid=40d6d904-7519-4681-84d7-e40e1ae85a0c
+    display: Read more
+
+- title: "Preference-aware dynamic ridesharing"
+  description: 
+  authors: Yi Cheng Ong, Nicos Protopapas, Vahid Yazdanpanah, Enrico Gerding, Sebastian Stein
+  year: 2022
+  harvard: |
+    <div class="uos-pure-list rendering researchoutput  researchoutput_harvard contributiontoconference harvard contributiontoconference_harvard">Ong, YC, Protopapas, N<span>, Yazdanpanah, V</span><span>, Gerding, E</span><span> & Stein, S</span> 2022, '<span class="harvard_title"><a href="https://eprints.soton.ac.uk/cgi/eprintbypureuuid?uuid=a6e21e8b-c047-4ba0-ba8c-c32578135c34" onclick="window.open(this.href); return false;">Preference-aware dynamic ridesharing</a></span>', Paper presented at The 6th International Workshop on Agent-Based Modelling of Urban Systems, Auckland, New Zealand, <span class="date">10/05/22</span> - <span class="date">10/05/22</span>.
+  link:
+    url: https://eprints.soton.ac.uk/cgi/eprintbypureuuid?uuid=a6e21e8b-c047-4ba0-ba8c-c32578135c34
+    display: Read more
+
+- title: "Electric Vehicle Charging on Long Journeys: Current Challenges and Future Opportunities"
+  description: 
+  authors: Elnaz Shafipour Yourdshahi, Sebastian Stein
+  year: 2022
+  harvard: |
+    <div class="uos-pure-list rendering researchoutput  researchoutput_harvard bookanthology harvard bookanthology_harvard"><span>Shafipour Yourdshahi, E</span><span> & Stein, S</span> 2022, <span><em><a href="https://eprints.soton.ac.uk/cgi/eprintbypureuuid?uuid=77115181-dd29-4ca3-9acb-e9a5be11223e" onclick="window.open(this.href); return false;">Electric Vehicle Charging on Long Journeys: Current Challenges and Future Opportunities</a></em></span>. University of Southampton. <a onclick="window.open(this.href); return false;" href="https://doi.org/10.5258/SOTON/PP0006" class="link"><span>https://doi.org/10.5258/SOTON/PP0006</span></a>
+  link:
+    url: https://eprints.soton.ac.uk/cgi/eprintbypureuuid?uuid=77115181-dd29-4ca3-9acb-e9a5be11223e
+    display: Read more
+
+- title: "Efficient and adaptive incentive selection for crowdsourcing contests"
+  description: 
+  authors: Nhat Van-Quoc Truong, Le Cong Dinh, Sebastian Stein, Long Tran-Thanh, Nicholas R. Jennings
+  year: 2022
+  harvard: |
+    <div class="uos-pure-list rendering researchoutput  researchoutput_harvard contributiontojournal harvard contributiontojournal_harvard"><span>Truong, NV-Q</span><span>, Dinh, LC</span><span>, Stein, S</span>, Tran-Thanh, L & Jennings, NR 2022, '<span class="harvard_title"><a href="https://eprints.soton.ac.uk/cgi/eprintbypureuuid?uuid=29b9a13e-0023-4a95-a952-2a998fe63721" onclick="window.open(this.href); return false;">Efficient and adaptive incentive selection for crowdsourcing contests</a></span>', <span><em>Applied Intelligence</em></span>. <a onclick="window.open(this.href); return false;" href="https://doi.org/10.1007/s10489-022-03593-2" class="link"><span>https://doi.org/10.1007/s10489-022-03593-2</span></a>
+  link:
+    url: https://eprints.soton.ac.uk/cgi/eprintbypureuuid?uuid=29b9a13e-0023-4a95-a952-2a998fe63721
+    display: Read more
+
+- title: "Low-carbon comfort management for smart buildings"
+  description: 
+  authors: Jennifer Williams, Benjamin  Lellouch, Sebastian Stein, Christina Vanderwel, Stephanie Gauthier
+  year: 2022
+  harvard: |
+    <div class="uos-pure-list rendering researchoutput  researchoutput_harvard contributiontoconference harvard contributiontoconference_harvard"><span>Williams, J</span>, Lellouch, B<span>, Stein, S</span><span>, Vanderwel, C</span><span> & Gauthier, S</span> 2022, '<span class="harvard_title"><a href="https://eprints.soton.ac.uk/cgi/eprintbypureuuid?uuid=37e9507d-5ccc-4937-9a5d-73e9cab33132" onclick="window.open(this.href); return false;">Low-carbon comfort management for smart buildings</a></span>', Paper presented at IEEE Smart Cities, <span class="date">26/09/22</span> - <span class="date">29/09/22</span>. <a onclick="window.open(this.href); return false;" href="https://doi.org/10.1109/ISC255366.2022.9922474" class="link"><span>https://doi.org/10.1109/ISC255366.2022.9922474</span></a>, <a onclick="window.open(this.href); return false;" href="https://doi.org/10.1109/ISC255366.2022.9922474" class="link"><span>https://doi.org/10.1109/ISC255366.2022.9922474</span></a>
+  link:
+    url: https://eprints.soton.ac.uk/cgi/eprintbypureuuid?uuid=37e9507d-5ccc-4937-9a5d-73e9cab33132
+    display: Read more
+
+- title: "Safe Audio AI Services in Smart Buildings"
+  description: 
+  authors: Jennifer Williams, Vahid Yazdanpanah, Sebastian Stein
+  year: 2022
+  harvard: |
+    <div class="uos-pure-list rendering researchoutput  researchoutput_harvard contributiontoconference harvard contributiontoconference_harvard"><span>Williams, J</span><span>, Yazdanpanah, V</span><span> & Stein, S</span> 2022, '<span class="harvard_title"><a href="https://eprints.soton.ac.uk/cgi/eprintbypureuuid?uuid=35d67b39-a78e-48c5-a02c-5c4a5037a4a1" onclick="window.open(this.href); return false;">Safe Audio AI Services in Smart Buildings</a></span>', Paper presented at ACM BuildSys 2022, <span class="date">9/11/22</span> - <span class="date">10/11/22</span> pp. 266-269. <a onclick="window.open(this.href); return false;" href="https://doi.org/10.1145/3563357.3564076" class="link"><span>https://doi.org/10.1145/3563357.3564076</span></a>
+  link:
+    url: https://eprints.soton.ac.uk/cgi/eprintbypureuuid?uuid=35d67b39-a78e-48c5-a02c-5c4a5037a4a1
+    display: Read more
+
+- title: "Reasoning About Responsibility in Autonomous Systems:  Challenges and Opportunities"
+  description: 
+  authors: Vahid Yazdanpanah, Enrico Gerding, Sebastian Stein, Mehdi Dastani, Catholijn M. Jonker, Timothy Norman, Sarvapali Ramchurn
+  year: 2022
+  harvard: |
+    <div class="uos-pure-list rendering researchoutput  researchoutput_harvard contributiontojournal harvard contributiontojournal_harvard"><span>Yazdanpanah, V</span><span>, Gerding, E</span><span>, Stein, S</span>, Dastani, M, Jonker, CM<span>, Norman, T</span><span> & Ramchurn, S</span> 2022, '<span class="harvard_title"><a href="https://eprints.soton.ac.uk/cgi/eprintbypureuuid?uuid=741480fe-5205-4e61-b796-ce2b51e436bb" onclick="window.open(this.href); return false;">Reasoning About Responsibility in Autonomous Systems:  Challenges and Opportunities</a></span>', <span><em>AI & Society</em></span>.
+  link:
+    url: https://eprints.soton.ac.uk/cgi/eprintbypureuuid?uuid=741480fe-5205-4e61-b796-ce2b51e436bb
+    display: Read more
+
+- title: "A Polynomial-time, truthful, individually rational and budget balanced ridesharing mechanism"
+  description: 
+  authors: Tatsuya Iwase, Sebastian Stein, Enrico Gerding
+  year: 2021
+  harvard: |
+    <div class="uos-pure-list rendering researchoutput  researchoutput_harvard contributiontoconference harvard contributiontoconference_harvard">Iwase, T<span>, Stein, S</span><span> & Gerding, E</span> 2021, '<span class="harvard_title"><a href="https://eprints.soton.ac.uk/cgi/eprintbypureuuid?uuid=98c022f8-85d0-4e8b-a648-540e391f1055" onclick="window.open(this.href); return false;">A Polynomial-time, truthful, individually rational and budget balanced ridesharing mechanism</a></span>', Paper presented at International Joint Conference on Artificial Intelligence, Montreal, Canada, <span class="date">21/08/21</span> - <span class="date">26/08/21</span> pp. 268-275. <a onclick="window.open(this.href); return false;" href="https://doi.org/10.24963/ijcai.2021/38" class="link"><span>https://doi.org/10.24963/ijcai.2021/38</span></a>
+  link:
+    url: https://eprints.soton.ac.uk/cgi/eprintbypureuuid?uuid=98c022f8-85d0-4e8b-a648-540e391f1055
+    display: Read more
+
+- title: "Trustworthy human-AI partnerships"
+  description: 
+  authors: Sarvapali Ramchurn, Sebastian Stein, Nicholas R. Jennings
+  year: 2021
+  harvard: |
+    <div class="uos-pure-list rendering researchoutput  researchoutput_harvard contributiontojournal harvard contributiontojournal_harvard"><span>Ramchurn, S</span><span>, Stein, S</span> & Jennings, NR 2021, '<span class="harvard_title"><a href="https://eprints.soton.ac.uk/cgi/eprintbypureuuid?uuid=0977ee56-d087-47e2-8695-75c7b95a3a4b" onclick="window.open(this.href); return false;">Trustworthy human-AI partnerships</a></span>', <span><em>iScience</em></span>, vol. 24, no. 8, 102891. <a onclick="window.open(this.href); return false;" href="https://doi.org/10.1016/j.isci.2021.102891" class="link"><span>https://doi.org/10.1016/j.isci.2021.102891</span></a>
+  link:
+    url: https://eprints.soton.ac.uk/cgi/eprintbypureuuid?uuid=0977ee56-d087-47e2-8695-75c7b95a3a4b
+    display: Read more
+
+- title: "Responsibility Research for Trustworthy Autonomous Systems"
+  description: 
+  authors: Vahid Yazdanpanah, Enrico Gerding, Sebastian Stein, Mehdi Dastani, Catholijn M. Jonker, Timothy Norman
+  year: 2021
+  harvard: |
+    <div class="uos-pure-list rendering researchoutput  researchoutput_harvard contributiontoconference harvard contributiontoconference_harvard"><span>Yazdanpanah, V</span><span>, Gerding, E</span><span>, Stein, S</span>, Dastani, M, Jonker, CM<span> & Norman, T</span> 2021, '<span class="harvard_title"><a href="https://eprints.soton.ac.uk/cgi/eprintbypureuuid?uuid=1f4776ad-76ef-47fa-ab53-e6aae4be57dd" onclick="window.open(this.href); return false;">Responsibility Research for Trustworthy Autonomous Systems</a></span>', Paper presented at 20th International Conference on Autonomous Agents and Multiagent Systems, Virtual, United Kingdom, <span class="date">3/05/21</span> - <span class="date">7/05/21</span> pp. 57-62. <a onclick="window.open(this.href); return false;" href="https://doi.org/10.48448/w5y9-qk13" class="link"><span>https://doi.org/10.48448/w5y9-qk13</span></a>
+  link:
+    url: https://eprints.soton.ac.uk/cgi/eprintbypureuuid?uuid=1f4776ad-76ef-47fa-ab53-e6aae4be57dd
+    display: Read more
+
+- title: "Formal Methods to Verify and Ensure Self-Coordination Abilities in the Internet of Vehicles"
+  description: 
+  authors: Vahid Yazdanpanah, Enrico Gerding, Sebastian Stein
+  year: 2021
+  harvard: |
+    <div class="uos-pure-list rendering researchoutput  researchoutput_harvard contributiontobookanthology harvard contributiontobookanthology_harvard"><span>Yazdanpanah, V</span><span>, Gerding, E</span><span> & Stein, S</span> 2021, <span class="harvard_title"><a href="https://eprints.soton.ac.uk/cgi/eprintbypureuuid?uuid=f25164ff-caef-4d6d-96ca-393fb5e063d6" onclick="window.open(this.href); return false;">Formal Methods to Verify and Ensure Self-Coordination Abilities in the Internet of Vehicles</a></span>. in <em>Computational Logistics: 12th International Conference, ICCL 2021, Enschede, The Netherlands, September 27–29, 2021, Proceedings.</em> Springer, International Conference on Computational Logistics, Enschede, Netherlands, <span class="date">26/09/21</span>.
+  link:
+    url: https://eprints.soton.ac.uk/cgi/eprintbypureuuid?uuid=f25164ff-caef-4d6d-96ca-393fb5e063d6
+    display: Read more
+
+- title: "Different Forms of Responsibility in Multiagent Systems: Sociotechnical Characteristics and  Requirements"
+  description: 
+  authors: Vahid Yazdanpanah, Enrico Gerding, Sebastian Stein, Corina Cirstea, m.c. schraefel, Timothy Norman, Nicholas R. Jennings
+  year: 2021
+  harvard: |
+    <div class="uos-pure-list rendering researchoutput  researchoutput_harvard contributiontojournal harvard contributiontojournal_harvard"><span>Yazdanpanah, V</span><span>, Gerding, E</span><span>, Stein, S</span><span>, Cirstea, C</span><span>, schraefel, MC</span><span>, Norman, T</span> & Jennings, NR 2021, '<span class="harvard_title"><a href="https://eprints.soton.ac.uk/cgi/eprintbypureuuid?uuid=01c41ed0-cc34-47e1-b9bb-649c22468f73" onclick="window.open(this.href); return false;">Different Forms of Responsibility in Multiagent Systems: Sociotechnical Characteristics and  Requirements</a></span>', <span><em>IEEE Internet Computing</em></span>, vol. 25, no. 6, pp. 15-22. <a onclick="window.open(this.href); return false;" href="https://doi.org/10.1109/MIC.2021.3107334" class="link"><span>https://doi.org/10.1109/MIC.2021.3107334</span></a>
+  link:
+    url: https://eprints.soton.ac.uk/cgi/eprintbypureuuid?uuid=01c41ed0-cc34-47e1-b9bb-649c22468f73
+    display: Read more
+
+- title: "Collective responsibility in multiagent settings"
+  description: 
+  authors: Vahid Yazdanpanah, Enrico H. Gerding, Sebastian Stein, Corina Cirstea, m.c.  schraefel, Timothy J. Norman, Nicholas R. Jennings
+  year: 2021
+  harvard: |
+    <div class="uos-pure-list rendering researchoutput  researchoutput_harvard contributiontoconference harvard contributiontoconference_harvard"><span>Yazdanpanah, V</span><span>, Gerding, EH</span><span>, Stein, S</span><span>, Cirstea, C</span><span>, schraefel, MC</span><span>, Norman, TJ</span> & Jennings, NR 2021, '<span class="harvard_title"><a href="https://eprints.soton.ac.uk/cgi/eprintbypureuuid?uuid=a07568e8-2d68-4bcc-bdf6-5456152bfbe4" onclick="window.open(this.href); return false;">Collective responsibility in multiagent settings</a></span>', Paper presented at ACM Collective Intelligence Conference 2021 (CI-2021), Copenhagen, Denmark, <span class="date">29/06/21</span> - <span class="date">30/06/21</span>.
+  link:
+    url: https://eprints.soton.ac.uk/cgi/eprintbypureuuid?uuid=a07568e8-2d68-4bcc-bdf6-5456152bfbe4
+    display: Read more
+
+- title: "Multiagent strategic reasoning in the IoV: A logic-based approach"
+  description: 
+  authors: Vahid Yazdanpanah, Sebastian Stein, Enrico H. Gerding, m.c.  schraefel
+  year: 2021
+  harvard: |
+    <div class="uos-pure-list rendering researchoutput  researchoutput_harvard contributiontoconference harvard contributiontoconference_harvard"><span>Yazdanpanah, V</span><span>, Stein, S</span><span>, Gerding, EH</span><span> & schraefel, MC</span> 2021, '<span class="harvard_title"><a href="https://eprints.soton.ac.uk/cgi/eprintbypureuuid?uuid=f1c5d810-7dfe-4ec2-aa3c-4823855c4e9e" onclick="window.open(this.href); return false;">Multiagent strategic reasoning in the IoV: A logic-based approach</a></span>', Paper presented at ACM Collective Intelligence Conference 2021 (CI-2021), Copenhagen, Denmark, <span class="date">29/06/21</span> - <span class="date">30/06/21</span>.
+  link:
+    url: https://eprints.soton.ac.uk/cgi/eprintbypureuuid?uuid=f1c5d810-7dfe-4ec2-aa3c-4823855c4e9e
+    display: Read more
+
+- title: "Applying strategic reasoning for accountability ascription in multiagent teams"
+  description: 
+  authors: Vahid Yazdanpanah, Sebastian Stein, Enrico Gerding, Nicholas R. Jennings
+  year: 2021
+  harvard: |
+    <div class="uos-pure-list rendering researchoutput  researchoutput_harvard contributiontoconference harvard contributiontoconference_harvard"><span>Yazdanpanah, V</span><span>, Stein, S</span><span>, Gerding, E</span> & Jennings, NR 2021, '<span class="harvard_title"><a href="https://eprints.soton.ac.uk/cgi/eprintbypureuuid?uuid=db3d1793-710e-4282-a5a1-03a2a292bf47" onclick="window.open(this.href); return false;">Applying strategic reasoning for accountability ascription in multiagent teams</a></span>', Paper presented at The IJCAI-21 Workshop on Artificial Intelligence Safety (AISafety 2021), <span class="date">21/08/21</span> - <span class="date">22/08/21</span>.
+  link:
+    url: https://eprints.soton.ac.uk/cgi/eprintbypureuuid?uuid=db3d1793-710e-4282-a5a1-03a2a292bf47
+    display: Read more
+
+- title: "Task-oriented accountability in autonomous systems"
+  description: 
+  authors: Vahid Yazdanpanah, Sebastian Stein, Enrico Gerding, Nicholas R. Jennings
+  year: 2021
+  harvard: |
+    <div class="uos-pure-list rendering researchoutput  researchoutput_harvard contributiontoconference harvard contributiontoconference_harvard"><span>Yazdanpanah, V</span><span>, Stein, S</span><span>, Gerding, E</span> & Jennings, NR 2021, '<span class="harvard_title"><a href="https://eprints.soton.ac.uk/cgi/eprintbypureuuid?uuid=73e32bdf-2aa7-41d9-94ae-c0a35a3e1be8" onclick="window.open(this.href); return false;">Task-oriented accountability in autonomous systems</a></span>', The UKRI Trustworthy Autonomous Systems Programme: All Hands Meeting, Southampton, United Kingdom, <span class="date">14/09/21</span> - <span class="date">16/09/21</span>.
+  link:
+    url: https://eprints.soton.ac.uk/cgi/eprintbypureuuid?uuid=73e32bdf-2aa7-41d9-94ae-c0a35a3e1be8
+    display: Read more
+
+- title: "Privacy and Trust in the Internet of Vehicles"
+  description: 
+  authors: Efstathios Zavvos, Enrico Gerding, Vahid Yazdanpanah, Carsten Maple, Sebastian Stein, m.c.  schraefel
+  year: 2021
+  harvard: |
+    <div class="uos-pure-list rendering researchoutput  researchoutput_harvard contributiontojournal harvard contributiontojournal_harvard"><span>Zavvos, E</span><span>, Gerding, E</span><span>, Yazdanpanah, V</span>, Maple, C<span>, Stein, S</span><span> & schraefel, MC</span> 2021, '<span class="harvard_title"><a href="https://eprints.soton.ac.uk/cgi/eprintbypureuuid?uuid=75735afc-d423-43e0-ad9e-ff3b7602bfe6" onclick="window.open(this.href); return false;">Privacy and Trust in the Internet of Vehicles</a></span>', <span><em>IEEE Transactions on Intelligent Transportation Systems</em></span>, vol. 23, no. 8, pp. 10126-10141. <a onclick="window.open(this.href); return false;" href="https://doi.org/10.1109/TITS.2021.3121125" class="link"><span>https://doi.org/10.1109/TITS.2021.3121125</span></a>
+  link:
+    url: https://eprints.soton.ac.uk/cgi/eprintbypureuuid?uuid=75735afc-d423-43e0-ad9e-ff3b7602bfe6
+    display: Read more
+
