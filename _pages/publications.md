@@ -64,10 +64,7 @@ permalink: /publications/
 {% assign pub_year = publi.year %}
 {% endif %}
 
-{% capture h %}
-{{ publi.harvard }}
-{% endcapture %}
-{{ h }}
+{{ publi.harvard }}</div> <!-- everything but close divs is rendered fine -- so not sure why this is necessary -->
 
 <a href="{{ publi.link.url }}">{{ publi.title }}</a><br />
 {{ publi.authors }}, ({{ publi.year }}). 
