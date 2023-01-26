@@ -66,8 +66,11 @@ permalink: /publications/
 
 {{ publi.harvard }}</div> <!-- everything but close divs is rendered fine -- so not sure why this is necessary -->
 
+<!-- For once we have the new publication format  -->
+<!--
 <a href="{{ publi.link.url }}">{{ publi.title }}</a><br />
 {{ publi.authors }}, ({{ publi.year }}). 
 <!-- <em>{{}}</em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a> -->
+-->
 
 {% endfor %}
