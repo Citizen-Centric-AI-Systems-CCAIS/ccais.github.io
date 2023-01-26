@@ -12,7 +12,18 @@
   description: 
   authors: Lucia Cipolina-Kun, Vahid Yazdanpanah, Sebastian Stein, Enrico Gerding
   year: 2022
-  harvard: |houtput  researchoutput_harvard contributiontojournal harvard contributiontojournal_harvard"><span>Divband Soorati, M</span><span>, Gerding, E</span><span>, Marchioni, E</span><span>, Naumov, P</span><span>, Norman, T</span><span>, Ramchurn, S</span><span>, Rastegari, B</span><span>, Sobey, A</span><span>, Stein, S</span><span>, Tarapore, D</span><span>, Yazdanpanah, V</span><span> & Zhang, J</span> 2022, '<span class="harvard_title"><a href="https://eprints.soton.ac.uk/cgi/eprintbypureuuid?uuid=a76f89a8-ef64-4951-bdce-3937c50ed808" onclick="window.open(this.href); return false;">From Intelligent Agents to Trustworthy Human-Centred Multiagent Systems</a></span>', <span><em>AI Communications</em></span>.
+  harvard: |
+    <div class="uos-pure-list rendering researchoutput  researchoutput_harvard contributiontobookanthology harvard contributiontobookanthology_harvard">Cipolina-Kun, L<span>, Yazdanpanah, V</span><span>, Stein, S</span><span> & Gerding, E</span> 2022, <span class="harvard_title"><a href="https://eprints.soton.ac.uk/cgi/eprintbypureuuid?uuid=0587e3ad-74c7-4b42-9857-0a6b54b24a93" onclick="window.open(this.href); return false;">A proportional pricing mechanism for ridesharing services with meeting points</a></span>. in <em>Proceedings of the 24th International Conference on Principles and Practice of Multi-Agent Systems.</em> Springer.
+  link:
+    url: https://eprints.soton.ac.uk/cgi/eprintbypureuuid?uuid=0587e3ad-74c7-4b42-9857-0a6b54b24a93
+    display: Read more
+
+- title: "From Intelligent Agents to Trustworthy Human-Centred Multiagent Systems"
+  description: 
+  authors: Mohammad Divband Soorati, Enrico Gerding, Enrico Marchioni, Pavel Naumov, Timothy Norman, Sarvapali Ramchurn, Baharak Rastegari, Adam Sobey, Sebastian Stein, Danesh Tarapore, Vahid Yazdanpanah, Jie Zhang
+  year: 2022
+  harvard: |
+    <div class="uos-pure-list rendering researchoutput  researchoutput_harvard contributiontojournal harvard contributiontojournal_harvard"><span>Divband Soorati, M</span><span>, Gerding, E</span><span>, Marchioni, E</span><span>, Naumov, P</span><span>, Norman, T</span><span>, Ramchurn, S</span><span>, Rastegari, B</span><span>, Sobey, A</span><span>, Stein, S</span><span>, Tarapore, D</span><span>, Yazdanpanah, V</span><span> & Zhang, J</span> 2022, '<span class="harvard_title"><a href="https://eprints.soton.ac.uk/cgi/eprintbypureuuid?uuid=a76f89a8-ef64-4951-bdce-3937c50ed808" onclick="window.open(this.href); return false;">From Intelligent Agents to Trustworthy Human-Centred Multiagent Systems</a></span>', <span><em>AI Communications</em></span>.
   link:
     url: https://eprints.soton.ac.uk/cgi/eprintbypureuuid?uuid=a76f89a8-ef64-4951-bdce-3937c50ed808
     display: Read more
