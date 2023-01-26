@@ -45,7 +45,7 @@ This 5-year [UKRI Turing AI Acceleration Fellowship](https://www.gov.uk/governme
   </a>
 </div>
 
-
+<!-- 
 The group is working on:
 
 **Smart Energy**  
@@ -56,5 +56,8 @@ In future transportation systems,  access to shared autonomous vehicles and publ
 
 **Disaster Response**  
 Allocating limited resources or first responders during a disaster based on historical and real-time data is a promising application of AI technology. However, such data is often inherently biased due to the way it is collected, there is significant uncertainty and missing information. Here, involving citizens via a process of crowdsourcing may add valuable additional data and increase trust, but can introduce new biases or allow strategic manipulation.
+ -->
+
+Citizen-Centric Artificial Systems is a research group at the University of Southampton, UK, dedicated to exploring ways in which artificial intelligence and machine learning can be used to benefit society. Our research focuses on developing systems that are transparent, explainable, and accountable, with the goal of building technology that is trustworthy and empowers citizens. Our current research goals include using AI to manage the demand and supply of energy, including for electric vehicle charging, and to provide personalized transportation services through the use of shared autonomous vehicles and public transport. We are also exploring the use of AI in disaster response, with a focus on involving citizens through crowdsourcing to add valuable additional data and increase trust. Our team comprises experts in a variety of fields, including computer science, psychology, sociology, and policy, which allows us to approach these complex problems from multiple angles. We collaborate with a wide range of partners, including industry, academia, and civil society, to ensure that our work has a real-world impact. Through our research, we aim to create a future in which artificial intelligence is a force for good in the world.
 
 <br>
