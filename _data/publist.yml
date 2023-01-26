@@ -1,4 +1,24 @@
-- title: "Coalition formatred Multiagent Systems"
+- title: "Coalition formation in ridesharing with walking options"
+  description: 
+  authors: Lucia Cipolina-Kun, Vahid Yazdanpanah, Enrico Gerding, Sebastian Stein
+  year: 2022
+  harvard: |
+    <div class="uos-pure-list rendering researchoutput  researchoutput_harvard contributiontoconference harvard contributiontoconference_harvard">Cipolina-Kun, L<span>, Yazdanpanah, V</span><span>, Gerding, E</span><span> & Stein, S</span> 2022, '<span class="harvard_title"><a href="https://eprints.soton.ac.uk/cgi/eprintbypureuuid?uuid=a5e191b6-72fa-493d-b709-35b9bfe4b78e" onclick="window.open(this.href); return false;">Coalition formation in ridesharing with walking options</a></span>', Paper presented at ICLR 2022 Workshop on Gamification and Multiagent Solutions, <span class="date">29/04/22</span> - <span class="date">29/04/22</span>.
+  link:
+    url: https://eprints.soton.ac.uk/cgi/eprintbypureuuid?uuid=a5e191b6-72fa-493d-b709-35b9bfe4b78e
+    display: Read more
+
+- title: "A proportional pricing mechanism for ridesharing services with meeting points"
+  description: 
+  authors: Lucia Cipolina-Kun, Vahid Yazdanpanah, Sebastian Stein, Enrico Gerding
+  year: 2022
+  harvard: |
+    <div class="uos-pure-list rendering researchoutput  researchoutput_harvard contributiontobookanthology harvard contributiontobookanthology_harvard">Cipolina-Kun, L<span>, Yazdanpanah, V</span><span>, Stein, S</span><span> & Gerding, E</span> 2022, <span class="harvard_title"><a href="https://eprints.soton.ac.uk/cgi/eprintbypureuuid?uuid=0587e3ad-74c7-4b42-9857-0a6b54b24a93" onclick="window.open(this.href); return false;">A proportional pricing mechanism for ridesharing services with meeting points</a></span>. in <em>Proceedings of the 24th International Conference on Principles and Practice of Multi-Agent Systems.</em> Springer.
+  link:
+    url: https://eprints.soton.ac.uk/cgi/eprintbypureuuid?uuid=0587e3ad-74c7-4b42-9857-0a6b54b24a93
+    display: Read more
+
+- title: "From Intelligent Agents to Trustworthy Human-Centred Multiagent Systems"
   description: 
   authors: Mohammad Divband Soorati, Enrico Gerding, Enrico Marchioni, Pavel Naumov, Timothy Norman, Sarvapali Ramchurn, Baharak Rastegari, Adam Sobey, Sebastian Stein, Danesh Tarapore, Vahid Yazdanpanah, Jie Zhang
   year: 2022
@@ -12,6 +32,22 @@
   description: 
   authors: Jack Dymond, Sebastian Stein, Stephen Gunn
   year: 2022
+  harvard: |
+    <div class="uos-pure-list rendering researchoutput  researchoutput_harvard contributiontoconference harvard contributiontoconference_harvard"><span>Dymond, J</span><span>, Stein, S</span><span> & Gunn, S</span> 2022, '<span class="harvard_title"><a href="https://eprints.soton.ac.uk/cgi/eprintbypureuuid?uuid=e47f7314-d0be-4c74-aae0-24732d78ccd0" onclick="window.open(this.href); return false;">Adapting branched networks to realise progressive intelligence</a></span>', Paper presented at British Machine Vision Conference, London, United Kingdom, <span class="date">21/11/22</span> - <span class="date">24/11/22</span>.
+  link:
+    url: https://eprints.soton.ac.uk/cgi/eprintbypureuuid?uuid=e47f7314-d0be-4c74-aae0-24732d78ccd0
+    display: Read more
+
+- title: "A Polynomial-time decentralised algorithm for coordinated management of multiple intersections"
+  description: 
+  authors: Tatsuya Iwase, Sebastian Stein, Enrico Gerding, Archie Chapman
+  year: 2022
+  harvard: |
+    <div class="uos-pure-list rendering researchoutput  researchoutput_harvard contributiontoconference harvard contributiontoconference_harvard">Iwase, T<span>, Stein, S</span><span>, Gerding, E</span> & Chapman, A 2022, '<span class="harvard_title"><a href="https://eprints.soton.ac.uk/cgi/eprintbypureuuid?uuid=dfd34d9c-f353-41b0-ae5e-bc8d4a13cde4" onclick="window.open(this.href); return false;">A Polynomial-time decentralised algorithm for coordinated management of multiple intersections</a></span>', Paper presented at The 31st International Joint Conference on Artificial Intelligence, Vienna, Austria, <span class="date">23/07/22</span> - <span class="date">29/07/22</span> pp. 3847-3853. <a onclick="window.open(this.href); return false;" href="https://doi.org/10.24963/ijcai.2022/534" class="link"><span>https://doi.org/10.24963/ijcai.2022/534</span></a>
+  link:
+    url: https://eprints.soton.ac.uk/cgi/eprintbypureuuid?uuid=dfd34d9c-f353-41b0-ae5e-bc8d4a13cde4
+    display: Read more
+
 - title: "Reward function design in multi-agent reinforcement learning for traffic signal control"
   description: 
   authors: Behrad Koohy, Sebastian Stein, Enrico Gerding, Ghaithaa Manla
